@@ -1,8 +1,8 @@
 
 # Dilan Bayron Bravo Ramírez
 
-**Profesor de Matemática en formación, PUCV**  
-**Magíster en Simulación Computacional**
+**Profesor de Matemática, PUCV**  
+**Magíster en Simulación Computacional, PUCV**
 
 ---
 
