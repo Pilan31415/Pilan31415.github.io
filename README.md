@@ -1,4 +1,4 @@
-# Pilan31415.github.io
+
 # Dilan Bayron Bravo Ramírez
 
 **Profesor de Matemática en formación, PUCV**  
