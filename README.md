@@ -3,7 +3,7 @@
   <div style="flex: 1;">
     <h1>Dilan Bayron Bravo Ramírez</h1>
     <h3>Profesor de Matemática, PUCV</h3>
-    <p>Magíster en Simulación Computacional, PUCV</p>
+    <h3>Magíster en Simulación Computacional, PUCV</h3>
     <p>Docente con un sólido conocimiento matemático y estadístico, amplia experiencia en la enseñanza universitaria. Mi enfoque didáctico y amor por las matemáticas, simbolizado en el número pi, lleva lo irracional a lo natural.</p>
   </div>
 
