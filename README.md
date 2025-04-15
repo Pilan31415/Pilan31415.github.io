@@ -1,6 +1,6 @@
 
 # Dilan Bayron Bravo Ramírez
-<img src="./perfil.jpg" alt="Foto de Dilan Bravo" width="200" style="border-radius: 10px;" />
+<img src="./Perfil.jpg" alt="Foto de Dilan Bravo" width="200" style="border-radius: 10px;" />
 
 **Profesor de Matemática, PUCV**  
 **Magíster en Simulación Computacional, PUCV**
