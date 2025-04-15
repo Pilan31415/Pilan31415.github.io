@@ -1,5 +1,3 @@
-
-# Dilan Bayron Bravo Ramírez
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
   <div style="flex: 1;">
@@ -10,7 +8,7 @@
   </div>
 
   <div>
-    <img src="./perfil.jpg" alt="Foto de Dilan Bravo" width="180" style="border-radius: 12px;">
+    <img src="./Perfil.jpg" alt="Foto de Dilan Bravo" width="180" style="border-radius: 12px;">
   </div>
 
 </div>
