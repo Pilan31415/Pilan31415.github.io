@@ -1,9 +1,19 @@
 
 # Dilan Bayron Bravo Ramírez
-<img src="./Perfil.jpg" alt="Foto de Dilan Bravo" width="200" style="border-radius: 10px;" />
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
-**Profesor de Matemática, PUCV**  
-**Magíster en Simulación Computacional, PUCV**
+  <div style="flex: 1;">
+    <h1>Dilan Bayron Bravo Ramírez</h1>
+    <h3>Profesor de Matemática, PUCV</h3>
+    <p>Magíster en Simulación Computacional, PUCV</p>
+    <p>Docente con un sólido conocimiento matemático y estadístico, amplia experiencia en la enseñanza universitaria. Mi enfoque didáctico y amor por las matemáticas, simbolizado en el número pi, lleva lo irracional a lo natural.</p>
+  </div>
+
+  <div>
+    <img src="./perfil.jpg" alt="Foto de Dilan Bravo" width="180" style="border-radius: 12px;">
+  </div>
+
+</div>
 
 ---
 
@@ -56,8 +66,3 @@
 - 💼 GitHub: [github.com/Pilan31415](https://github.com/Pilan31415)
 
 ---
-
-## 💬 Sobre mí
-
-Docente con un sólido conocimiento matemático y estadístico, amplia experiencia en la enseñanza universitaria.  
-Mi enfoque didáctico y amor por las matemáticas, simbolizado en el número pi, lleva lo irracional a lo natural.
