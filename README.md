@@ -1,21 +1,25 @@
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<table>
+<tr>
+<td width="68%" valign="top">
 
-<div style="flex: 1;">
+# Dilan Bayron Bravo Ramírez
 
-# Dilan Bayron Bravo Ramírez  
 ### Profesor de Matemática, PUCV  
-### Magíster en Simulación Computacional (en curso), PUCV  
+### Magíster en Simulación Computacional (en curso), PUCV
 
 Docente y profesional con sólida formación en matemática, estadística y computación científica. Amplia experiencia en docencia universitaria y escolar. Actualmente orientado al desarrollo de métodos computacionales para resolver ecuaciones diferenciales mediante redes neuronales artificiales, Machine Learning y modelos PINNs (Physics-Informed Neural Networks).
 
-</div>
+</td>
 
-<div>
-<img src="./dilan-bravo.jpg" alt="Foto de Dilan Bravo" width="320" style="border-radius: 14px;">
-</div>
+<td width="32%" align="center" valign="top">
 
-</div>
+<img src="./dilan-bravo.jpg" width="300" style="border-radius:12px;">
 
+</td>
+</tr>
+</table>
+
+---
 ---
 
 ## 📚 Educación
