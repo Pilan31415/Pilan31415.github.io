@@ -11,7 +11,7 @@ Docente y profesional con sólida formación en matemática, estadística y comp
 </div>
 
 <div>
-<img src="./dilan-bravo.jpg" width="220" style="border-radius: 50%; border:4px solid white;">
+<img src="./dilan-bravo.jpg" alt="Foto de Dilan Bravo" width="320" style="border-radius: 14px;">
 </div>
 
 </div>
